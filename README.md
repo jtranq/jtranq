@@ -17,4 +17,4 @@
 
 <a href="https://github.com/jtranq/GitHub-Language-Stats">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jtranq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jtranq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=4605)
