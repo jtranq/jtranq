@@ -1,8 +1,8 @@
 ## Current Projects
 
-- [polyfill-rs](https://github.com/floor-licker/polyfill-rs) - A high-performance Rust client for Polymarket
+- [polyfill-rs](https://github.com/jtranq/polyfill-rs) - A high-performance Rust client for Polymarket
 
-- [erdos-gyarfas-cubic-bipartite](https://github.com/floor-licker/erdos-gyarfas-cubic-bipartite) - Companion repository for the paper proving a 60-vertex lower bound for cubic bipartite counterexamples to the Erdos-Gyarfas conjecture via exhaustive, certificate-backed computation.
+- [erdos-gyarfas-cubic-bipartite](https://github.com/jtranq/erdos-gyarfas-cubic-bipartite) - Companion repository for the paper proving a 60-vertex lower bound for cubic bipartite counterexamples to the Erdos-Gyarfas conjecture via exhaustive, certificate-backed computation.
 
 - [cardano-ibc-incubator](https://github.com/cardano-foundation/cardano-ibc-incubator) - An IBC bridge implementation enabling interop between Cardano and Cosmos, includes custom Mithril light client implementation. Read about our biggest engineering challenges [here](https://github.com/cardano-foundation/cardano-ibc-incubator/blob/main/KNOWN_ISSUES.md).
 
@@ -13,8 +13,8 @@
 
 ## GitHub Statistics 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=floor-licker&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtranq&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=stars)
 
-<a href="https://github.com/floor-licker/GitHub-Language-Stats">
+<a href="https://github.com/jtranq/GitHub-Language-Stats">
 
-![Profile Views](https://komarev.com/ghpvc/?username=floor-licker&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jtranq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
