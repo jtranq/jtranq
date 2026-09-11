@@ -4,7 +4,7 @@
 
 - [erdos-gyarfas-cubic-bipartite](https://github.com/jtranq/erdos-gyarfas-cubic-bipartite) - Companion repository for the paper proving a 60-vertex lower bound for cubic bipartite counterexamples to the Erdos-Gyarfas conjecture via exhaustive, certificate-backed computation.
 
-- [cardano-ibc-incubator](https://github.com/cardano-foundation/cardano-ibc-incubator) - An IBC bridge implementation enabling interop between Cardano and Cosmos, includes custom Mithril light client implementation. Read about our biggest engineering challenges [here](https://github.com/cardano-foundation/cardano-ibc-incubator/blob/main/KNOWN_ISSUES.md).
+- [cardano-ibc-incubator](https://github.com/cardano-foundation/cardano-ibc-incubator) - The IBC bridge implementation enabling interop between Cardano and Cosmos. Read about our biggest engineering challenges [here](https://github.com/cardano-foundation/cardano-ibc-incubator/blob/main/KNOWN_ISSUES.md).
 
 
 ## Languages & Technologies
