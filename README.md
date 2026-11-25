@@ -18,6 +18,7 @@
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6071 · Execute Plutus scripts from sub-transactions and count their ExUnits](https://github.com/IntersectMBO/cardano-ledger/pull/6071)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6277 · Reject maximum pledge leverage updates below one](https://github.com/IntersectMBO/cardano-ledger/pull/6277)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6280 · Include Dijkstra subtransaction outputs in `producedTxOuts`](https://github.com/IntersectMBO/cardano-ledger/pull/6280)<br>
 
 **[gOuroboros](https://github.com/blinklabs-io/gouroboros)** - The Go implementation of Cardano’s networking and consensus protocols, providing infrastructure for independent nodes and blockchain services.
 
