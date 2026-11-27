@@ -33,6 +33,14 @@
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3001 · Accept duplicate pre-Conway withdrawal accounts](https://github.com/blinklabs-io/gouroboros/pull/3001)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#2999 · Accept duplicate Babbage auxiliary-data indexes](https://github.com/blinklabs-io/gouroboros/pull/2999)<br>
 
+**[Yaci Store](https://github.com/bloxbean/yaci-store)** - A Java framework for indexing Cardano blockchain data and making it available to applications through APIs.
+
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1417 · Save each transaction witness once](https://github.com/bloxbean/yaci-store/pull/1417)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1413 · Require exact governance parent matching when no action is enacted](https://github.com/bloxbean/yaci-store/pull/1413)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1406 · Preserve epoch nonces across hard fork rollback](https://github.com/bloxbean/yaci-store/pull/1406)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1403 · Preserve governance state through ratification and enactment](https://github.com/bloxbean/yaci-store/pull/1403)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1401 · Fix native asset history pagination](https://github.com/bloxbean/yaci-store/pull/1401)<br>
+
 **[Aiken](https://github.com/aiken-lang/aiken)** - The programming language and compiler for smart contract development on Cardano.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1428 · Use byte offsets for EOF diagnostics](https://github.com/aiken-lang/aiken/pull/1428)<br>
