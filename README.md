@@ -52,10 +52,6 @@
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#734 · Upgrade evaluator and select ledger protocol](https://github.com/Anastasia-Labs/lucid-evolution/pull/734)<br>
 
-## Languages & Technologies
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg"> ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">
-
 ## GitHub Statistics 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtranq&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=stars)
