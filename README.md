@@ -22,6 +22,8 @@
 
 **[gOuroboros](https://github.com/blinklabs-io/gouroboros)** - The Go implementation of Cardano’s networking and consensus protocols, providing infrastructure for independent nodes and blockchain services.
 
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3088 · Release snapshots before stopping](https://github.com/blinklabs-io/gouroboros/pull/3088)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3055 · Share offset extraction across block decoders](https://github.com/blinklabs-io/gouroboros/pull/3055)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3053 · Correct rolling nonce derivation and combination](https://github.com/blinklabs-io/gouroboros/pull/3053)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3038 · Calculate DRep refunds from certificate amounts](https://github.com/blinklabs-io/gouroboros/pull/3038)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3036 · Reject invalid optional transaction body field types](https://github.com/blinklabs-io/gouroboros/pull/3036)<br>
@@ -36,6 +38,7 @@
 **[Yaci Store](https://github.com/bloxbean/yaci-store)** - A Java framework for indexing Cardano blockchain data and making it available to applications through APIs.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1417 · Save each transaction witness once](https://github.com/bloxbean/yaci-store/pull/1417)<br>
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1415 · Index collateral-return datums and reference scripts](https://github.com/bloxbean/yaci-store/pull/1415)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1413 · Require exact governance parent matching when no action is enacted](https://github.com/bloxbean/yaci-store/pull/1413)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1406 · Preserve epoch nonces across hard fork rollback](https://github.com/bloxbean/yaci-store/pull/1406)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1403 · Preserve governance state through ratification and enactment](https://github.com/bloxbean/yaci-store/pull/1403)<br>
