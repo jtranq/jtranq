@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=jtranq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=4605)
+
 ## Current Projects
 
 - [polyfill-rs](https://github.com/jtranq/polyfill-rs) - A high-performance Rust client for Polymarket with 200+ stars
@@ -6,21 +8,43 @@
 
 ## Cardano Ecosystem Contributions
 
-**[hermes-relayer](https://github.com/cardano-foundation/hermes-relayer)** - The Cardano Foundation’s fork of Hermes for relaying cross-chain messages between Cardano and Cosmos.
+<p align="center"><a href="https://github.com/cardano-foundation/cardano-ibc-incubator"><img src="assets/logos/cardano-foundation.png" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/cardano-foundation/cardano-ibc-incubator">cardano-ibc-incubator</a></h3>
 
-<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [80+ merged PRs](https://github.com/cardano-foundation/hermes-relayer/pulls?q=is%3Apr+is%3Amerged+author%3Ajtranq)
-
-**[cardano-ibc-incubator](https://github.com/cardano-foundation/cardano-ibc-incubator)** - The Cardano Foundation’s implementation of IBC connectivity between Cardano and Cosmos.
+The Cardano Foundation’s implementation of IBC connectivity between Cardano and Cosmos.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [500+ merged PRs](https://github.com/cardano-foundation/cardano-ibc-incubator/pulls?q=is%3Apr+is%3Amerged+author%3Ajtranq)
 
-**[cardano-ledger](https://github.com/IntersectMBO/cardano-ledger)** - The core implementation of Cardano’s ledger rules governing transaction validation, staking rewards and on-chain governance, written in Haskell.
+<br>
+
+<p align="center"><a href="https://github.com/cardano-foundation/hermes-relayer"><img src="assets/logos/hermes-header.svg" height="96" alt="Hermes"></a>
+</p>
+<h3 align="center"><a href="https://github.com/cardano-foundation/hermes-relayer">hermes-relayer</a></h3>
+
+The Cardano Foundation’s fork of Hermes for relaying cross-chain messages between Cardano and Cosmos.
+
+<img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [80+ merged PRs](https://github.com/cardano-foundation/hermes-relayer/pulls?q=is%3Apr+is%3Amerged+author%3Ajtranq)
+
+<br>
+
+<p align="center"><a href="https://github.com/IntersectMBO/cardano-ledger"><img src="assets/logos/intersect.png" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/IntersectMBO/cardano-ledger">cardano-ledger</a></h3>
+
+The core implementation of Cardano’s ledger rules governing transaction validation, staking rewards and on-chain governance, written in Haskell.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6071 · Execute Plutus scripts from sub-transactions and count their ExUnits](https://github.com/IntersectMBO/cardano-ledger/pull/6071)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6277 · Reject maximum pledge leverage updates below one](https://github.com/IntersectMBO/cardano-ledger/pull/6277)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#6280 · Include Dijkstra subtransaction outputs in `producedTxOuts`](https://github.com/IntersectMBO/cardano-ledger/pull/6280)<br>
 
-**[gOuroboros](https://github.com/blinklabs-io/gouroboros)** - The Go implementation of Cardano’s networking and consensus protocols, providing infrastructure for independent nodes and blockchain services.
+<br>
+
+<p align="center"><a href="https://github.com/blinklabs-io/gouroboros"><img src="assets/logos/gouroboros.png" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/blinklabs-io/gouroboros">gOuroboros</a></h3>
+
+The Go implementation of Cardano’s networking and consensus protocols, providing infrastructure for independent nodes and blockchain services.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3088 · Release snapshots before stopping](https://github.com/blinklabs-io/gouroboros/pull/3088)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3055 · Share offset extraction across block decoders](https://github.com/blinklabs-io/gouroboros/pull/3055)<br>
@@ -35,7 +59,13 @@
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#3001 · Accept duplicate pre-Conway withdrawal accounts](https://github.com/blinklabs-io/gouroboros/pull/3001)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#2999 · Accept duplicate Babbage auxiliary-data indexes](https://github.com/blinklabs-io/gouroboros/pull/2999)<br>
 
-**[Yaci Store](https://github.com/bloxbean/yaci-store)** - A Java framework for indexing Cardano blockchain data and making it available to applications through APIs.
+<br>
+
+<p align="center"><a href="https://github.com/bloxbean/yaci-store"><img src="assets/logos/yaci-store.svg" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/bloxbean/yaci-store">Yaci Store</a></h3>
+
+A Java framework for indexing Cardano blockchain data and making it available to applications through APIs.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1417 · Save each transaction witness once](https://github.com/bloxbean/yaci-store/pull/1417)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1415 · Index collateral-return datums and reference scripts](https://github.com/bloxbean/yaci-store/pull/1415)<br>
@@ -44,18 +74,22 @@
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1403 · Preserve governance state through ratification and enactment](https://github.com/bloxbean/yaci-store/pull/1403)<br>
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1401 · Fix native asset history pagination](https://github.com/bloxbean/yaci-store/pull/1401)<br>
 
-**[Aiken](https://github.com/aiken-lang/aiken)** - The programming language and compiler for smart contract development on Cardano.
+<br>
+
+<p align="center"><a href="https://github.com/aiken-lang/aiken"><img src="assets/logos/aiken.png" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/aiken-lang/aiken">Aiken</a></h3>
+
+The programming language and compiler for smart contract development on Cardano.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#1428 · Use byte offsets for EOF diagnostics](https://github.com/aiken-lang/aiken/pull/1428)<br>
 
-**[Lucid Evolution](https://github.com/Anastasia-Labs/lucid-evolution)** - A community-developed TypeScript library for transaction construction and smart contract interaction on Cardano.
+<br>
+
+<p align="center"><a href="https://github.com/Anastasia-Labs/lucid-evolution"><img src="assets/logos/lucid-evolution.svg" height="96" alt=""></a>
+</p>
+<h3 align="center"><a href="https://github.com/Anastasia-Labs/lucid-evolution">Lucid Evolution</a></h3>
+
+A community-developed TypeScript library for transaction construction and smart contract interaction on Cardano.
 
 <img src="assets/git-merge.svg" width="16" height="16" alt="Merged"> [#734 · Upgrade evaluator and select ledger protocol](https://github.com/Anastasia-Labs/lucid-evolution/pull/734)<br>
-
-## GitHub Statistics 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtranq&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=stars)
-
-<a href="https://github.com/jtranq/GitHub-Language-Stats">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jtranq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=4605)
